@@ -1,3 +1,2 @@
 # Kai
-git add README.md
-git status
+mein erste projekt
